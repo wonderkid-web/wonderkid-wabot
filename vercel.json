@@ -1,0 +1,15 @@
+{
+    "version": 0,
+    "build": [
+        {
+            "src": "./openwa.js",
+            "use": "@vercel/node"
+        }
+    ],
+    "routes":[
+        {
+            "src": "/(.*)",
+            "dest": "/"
+        }
+    ]
+}

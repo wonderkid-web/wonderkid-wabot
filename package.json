@@ -3,5 +3,27 @@
     "openai": "^3.1.0",
     "qrcode-terminal": "^0.12.0",
     "whatsapp-web.js": "^1.19.2"
-  }
+  },
+  "name": "wonderkid-wabot",
+  "version": "1.0.0",
+  "main": "openwa.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonderkid-web/wonderkid-wabot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wonderkid-web/wonderkid-wabot/issues"
+  },
+  "homepage": "https://github.com/wonderkid-web/wonderkid-wabot#readme",
+  "description": ""
 }
